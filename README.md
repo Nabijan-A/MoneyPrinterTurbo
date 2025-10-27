@@ -355,6 +355,21 @@ Trying to load the model directly from the local cache, if it exists.
 
 解决方法：[点击查看如何从网盘手动下载模型](#%E5%AD%97%E5%B9%95%E7%94%9F%E6%88%90-)
 
+## 高级教程 📚
+
+### LLM 微调实战
+
+想要让 AI 生成的视频文案更符合你的风格和需求吗？查看我们的 LLM 微调实战教程：
+
+- [LLM 微调实际案例：优化视频文案生成](docs/llm-fine-tuning-example.md)
+
+该教程包含：
+- 为什么需要微调 LLM
+- 完整的数据准备指南
+- OpenAI、DeepSeek 等平台的微调步骤
+- 实际代码示例
+- 成本估算和最佳实践
+
 ## 反馈建议 📢
 
 - 可以提交 [issue](https://github.com/harry0703/MoneyPrinterTurbo/issues)

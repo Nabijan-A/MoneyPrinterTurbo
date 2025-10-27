@@ -375,6 +375,21 @@ Trying to load the model directly from the local cache, if it exists.
 
 Solution: [Click to see how to manually download the model from netdisk](#subtitle-generation-)
 
+## Advanced Tutorials 📚
+
+### LLM Fine-tuning in Practice
+
+Want to make AI-generated video scripts better match your style and needs? Check out our LLM fine-tuning tutorial:
+
+- [LLM Fine-tuning Practical Case: Optimizing Video Script Generation](docs/llm-fine-tuning-example-en.md)
+
+This tutorial includes:
+- Why fine-tune LLMs
+- Complete data preparation guide
+- Fine-tuning steps for OpenAI, DeepSeek, and other platforms
+- Practical code examples
+- Cost estimation and best practices
+
 ## Feedback & Suggestions 📢
 
 - You can submit an [issue](https://github.com/harry0703/MoneyPrinterTurbo/issues) or
